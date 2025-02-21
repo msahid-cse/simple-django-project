@@ -144,7 +144,7 @@ LOGIN_URL = 'signup'
 # email configurations
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'xxxx'
-EMAIL_HOST_PASSWORD = 'xxxx'
+EMAIL_HOST_USER = 'msahid.cse@gmil.com'
+EMAIL_HOST_PASSWORD = 'sahid123'
 EMAIL_PORT = 587
 
